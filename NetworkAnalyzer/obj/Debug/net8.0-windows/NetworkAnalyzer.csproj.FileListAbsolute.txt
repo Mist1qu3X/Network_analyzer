@@ -18,3 +18,4 @@ C:\Users\user\Desktop\pks_kr2\NetworkAnalyzer\obj\Debug\net8.0-windows\refint\Ne
 C:\Users\user\Desktop\pks_kr2\NetworkAnalyzer\obj\Debug\net8.0-windows\NetworkAnalyzer.pdb
 C:\Users\user\Desktop\pks_kr2\NetworkAnalyzer\obj\Debug\net8.0-windows\NetworkAnalyzer.genruntimeconfig.cache
 C:\Users\user\Desktop\pks_kr2\NetworkAnalyzer\obj\Debug\net8.0-windows\ref\NetworkAnalyzer.dll
+C:\Users\user\Desktop\pks_kr2\NetworkAnalyzer\obj\Debug\net8.0-windows\NetworkAnalyzer.sourcelink.json
